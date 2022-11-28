@@ -1,0 +1,15 @@
+h1{
+    font-size: 20px; /*cambia el tamaño de titulos*/
+    font-family: sans-serif; /*cambia el tipo de letra*/
+    font-weight: bold; /*cambia el peso de la letra (bold negrita o lighter delgada*/
+}
+
+h2{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+/* poner estilos a diferentes elementos (borde de 1 pixel, de linea y color negro)*/
+header,section, footer, aside, nav, article{
+    border: 1px solid black;
+}
